@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="GridSMDComponentManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GridSMDComponentManager_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GridSMDComponentManager.jar">
+        <element id="module-output" name="GridSMDComponentManager" />
+        <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
