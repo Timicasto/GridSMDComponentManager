@@ -26,6 +26,7 @@ public class App {
 	}
 
 	public JPanel makeMainPage(Dimensions res) {
-
+		JPanel panel = new JPanel(null);
+		return panel;
 	}
 }

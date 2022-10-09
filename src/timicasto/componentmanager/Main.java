@@ -9,9 +9,9 @@ public class Main {
 	public static final Logger LOGGER = Logger.getLogger("Component Manager");
 	public static void main(String[] args) throws IOException {
 		App app = new App();
-		Handler console = new ConsoleHandler();
+		/*Handler console = new ConsoleHandler();
 		console.setFormatter(new SimpleFormatter());
-		LOGGER.addHandler(console);
+		LOGGER.addHandler(console);*/
 		Handler file = new FileHandler("./latest.log");
 		file.setFormatter(new SimpleFormatter());
 		LOGGER.addHandler(file);
