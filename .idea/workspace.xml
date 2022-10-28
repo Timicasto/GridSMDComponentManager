@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6821a9c3-3730-4271-9ddb-4354515a7d54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libraries/failureaccess-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libraries/guava-31.1-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timicasto/componentmanager/data/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timicasto/componentmanager/data/GridStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timicasto/componentmanager/file/FileStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timicasto/componentmanager/file/GridMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timicasto/componentmanager/utils/Vec2i.java" afterDir="false" />
+    <list default="true" id="6821a9c3-3730-4271-9ddb-4354515a7d54" name="Changes" comment="Update first">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_9_22,_2_54_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_9_22__2_54_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GridSMDComponentManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GridSMDComponentManager.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/latest.log.lck" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/timicasto/componentmanager/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timicasto/componentmanager/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/timicasto/componentmanager/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timicasto/componentmanager/Main.java" afterDir="false" />
     </list>
@@ -52,10 +44,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/timicasto/GridSMDComponentManager/libraries/guava-31.1-jre.jar",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -92,6 +84,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665230677698</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update first">
+      <created>1665253757708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665253757709</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,5 +104,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update first" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update first" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

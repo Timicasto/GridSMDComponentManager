@@ -1,6 +1,6 @@
-Oct 09, 2022 2:58:51 PM timicasto.componentmanager.Main main
-INFO: Instance Creating, Screen size 4480 * 1440, window size 1920 * 1080
-Oct 09, 2022 2:58:51 PM timicasto.componentmanager.App createInstance
+Oct 29, 2022 2:33:02 AM timicasto.componentmanager.Main main
+INFO: Instance Creating, Screen size 3200 * 1800, window size 3200 * 1800
+Oct 29, 2022 2:33:02 AM timicasto.componentmanager.App createInstance
 SEVERE: Failed to load Icon image, please check the integrity of the main Jar executable. (sun.misc.Launcher$AppClassLoader@18b4aac2)
-Oct 09, 2022 2:58:51 PM timicasto.componentmanager.Main main
+Oct 29, 2022 2:33:02 AM timicasto.componentmanager.Main main
 INFO: Frame created.

@@ -27,6 +27,41 @@ public class App {
 
 	public JPanel makeMainPage(Dimensions res) {
 		JPanel panel = new JPanel(null);
+		panel.setSize(res.width, res.height);
+		JButton create = new JButton("创建新的网格文件");
+		JButton read = new JButton("读取现有网格文件");
+		panel.add(create);
+		panel.add(read);
+		switch (res.ordinal()) {
+			case 0:
+				create.setBounds(100, 100, 200, 200);
+				read.setBounds(340, 100, 200, 200);
+				break;
+			case 1:
+				create.setBounds(160, 160, 320, 320);
+				read.setBounds(544, 160, 320, 320);
+				break;
+			case 2:
+				create.setBounds(200, 200, 400, 400);
+				read.setBounds(680, 200, 400, 400);
+				break;
+			case 3:
+				create.setBounds(250, 250, 500, 500);
+				read.setBounds(850, 250, 500, 500);
+				break;
+			case 4:
+				create.setBounds(300, 300, 600, 600);
+				read.setBounds(1020, 300, 600, 600);
+				break;
+			case 5:
+				create.setBounds(400, 400, 800, 800);
+				read.setBounds(1360, 400, 800, 800);
+				break;
+			case 6:
+				create.setBounds(500, 500, 1000, 1000);
+				read.setBounds(1700, 500, 1000, 1000);
+				break;
+		}
 		return panel;
 	}
 }
